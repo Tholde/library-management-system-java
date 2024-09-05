@@ -1,0 +1,15 @@
+ADMIN LOGIN :
+username: admin
+password: admin123
+---------------------
+BIBLIOMAN LOGIN :
+username: hosea
+password: hosea123
+---------------------
+STUDENT LOGIN :
+username: famonjena
+password: famonjena30154
+---------------------
+PROFESSOR LOGIN :
+username: rindra
+password: razafinjatovo
